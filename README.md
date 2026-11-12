@@ -1,4 +1,4 @@
-# 💵 Dollar Death Watch
+# 💵 Multipolar Money Monitor
 
 **A live tracker of de-dollarisation signals across global reserve composition, central bank gold purchases, BRICS trade settlement, and dollar strength indices.**
 
